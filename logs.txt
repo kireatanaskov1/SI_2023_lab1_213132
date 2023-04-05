@@ -1,0 +1,37 @@
+C:\Users\HP\Desktop\SI_2023_lab1_213132>git log
+commit be0a8e9573319542d946e442700e06af79c69ce5 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:09:13 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit fa7bbfc0d6b3decc75bd0d43038c3205e8e8a0c3
+Merge: b8bfdaa 60e59d9
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:11:44 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 60e59d912b1f34351a7ace30cd702e1c75af5dfb (origin/bug2, bug2)
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:08:22 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b8bfdaaae465862fbdf0bfda972157daf8df3731 (origin/bug1, bug1)
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:06:54 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 19851ee58b256c8b4eae1e5c7300967c980a2154
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:04:12 2023 +0200
+
+    Add java class
+
+commit 101fad9ebe964b9b7cd21853912e2c2a758fdc59
+Author: kireatanaskov1 <kireatanaskov2@gmail.com>
+Date:   Wed Apr 5 20:02:48 2023 +0200
+
+    Initial commit

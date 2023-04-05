@@ -1,0 +1,38 @@
+4. git init
+5. git remote add origin https://github.com/kireatanaskov1/SI_2023_lab1_213132.git
+6. git add README.md
+   git commit -m "Initial commit"
+7. git add SILab1.java
+   git commit -m "Add java class"
+8. git push origin master
+9. git branch
+10. git checkout bug1 
+11. git add SILab1.java
+    git commit -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. git add SILab1.java
+    git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. git add SILab1.java
+    git commit -m "Fix method sumEvenNumbers"
+16. git checkout bug1
+    git push origin bug1
+    git checkout bug2
+    git push origin bug2
+    git checkout bug3
+    git push --force origin bug3
+17. git checkout master
+18. git merge bug1, fast-forward, нема конфликт
+19. git push origin master
+20. git mrege bug2, рекурзивна стратегија, нема конфликти
+21. git push origin master
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3, fast-forward, нема конфликти
+26. git push origin master
+27. git log
+    git add logs.txt
+    git add 213132.txt
+    git commit -m "Final commit"
+28. git push origin master
